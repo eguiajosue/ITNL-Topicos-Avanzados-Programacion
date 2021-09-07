@@ -13,8 +13,8 @@ const DatosAlumno = {
 };
 ```
 ## Temario
-| Parcial     	 	| Tema 																										          |
-| ----------- 		| ----------------------------------------------------------------- |
+| PARCIAL     	 	| TEMA 																										          |
+| --------------	| ----------------------------------------------------------------- |
 | *Primero*      	| Interfaz gráfica de usuario       																|
 | *Segundo*   		| Componentes y librerías. Programación concurrente (multi-hilos) 	| 
 | *Tercero*      	| Acceso a datos. Programación de dispositivos móviles       				|   
